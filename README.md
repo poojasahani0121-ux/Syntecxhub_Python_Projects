@@ -1,2 +1,7 @@
 # Syntecxhub_Python_Projects
-Basic Python projects - Calculator and Number Guessing Game
+## Project Included;
+1. Calculator
+2.  Number Guessing Game
+  ## Description;
+These are basic Python projects created as part of an internship task.  
+      
